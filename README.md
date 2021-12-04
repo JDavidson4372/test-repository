@@ -1,4 +1,3 @@
-# test-repository
-Just a test for a first time user
+# My very first repo
 
-This is a second example
+Still trying this out
